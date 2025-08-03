@@ -1,4 +1,5 @@
-I'm Mohammad Arkan. And I'm a backend developer who focused on building real-world, scalable, complex, and secure systems.
+Hi Mohammad Arkan. 
+And I'm a backend developer who focused on building real-world, scalable, complex, and secure systems.
 
 I’ve built the backend for down 👇
 social media platforms,
