@@ -1,5 +1,5 @@
 # Mohammad Arkan
-**Backend Developer | Node.js | Express | TypeScript**
+**Node.js | TypeScript | Express | PostgreSQL | MongoDB | Docker | RabbitMQ | Websockets | Micor-services | Redis**
 
 I’m a backend engineer passionate about building **scalable, efficient, and secure** systems.  
 I love solving complex problems, optimizing APIs, and designing robust architectures that can handle real-world demands.  
