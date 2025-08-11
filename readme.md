@@ -1,13 +1,48 @@
-I'm Mohammad Arkan. And I'm a backend developer who focused on building real-world, scalable, complex, and secure systems.
+# Hi there, I'm Arkan 👋  
+**Backend Developer | Node.js | Express | TypeScript**
 
-I’ve built the backend for down 👇
-social media platforms,
-e-commerce systems,
-personal blogs,
-real-time apps,
-booking app,
-abvance auth app,
-and a LeetCode-style problem solver — featuring Dockerized code execution and message-based architecture.
+I’m a backend engineer passionate about building **scalable, efficient, and secure** systems.  
+I love solving complex problems, optimizing APIs, and designing robust architectures that can handle real-world demands.  
 
-I work with Node.js, Express, Prisma, MongoDB, PostgreSQL, Redis, RabbitMQ, and Docker. I often implement testing strategies like unit, integration, and end-to-end tests in important projects. I use AI daily to speed up development and occasionally explore ways to integrate it into my work.
-I’m always learning — improving in architecture, deployment, testing, and real-time systems.
+💡 **Current Focus:** Preparing for remote backend opportunities and contributing to impactful open-source projects.
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** JavaScript, TypeScript, SQL, NoSQL
+- **Backend:** Node.js, Express.js
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Messaging & Queueing:** RabbitMQ
+- **Tools & Platforms:** Docker, Git, Postman
+- **Cloud:** AWS (Basics)
+- **Other Skills:** OOP, REST API Design, WebSockets
+
+---
+
+## 🚀 Featured Projects
+
+### [LeetCode Clone Backend](https://github.com/username/project)
+A real-time coding platform supporting multiple programming languages with Docker-based sandboxing, live contests, and discussion forums.
+
+### [E-Commerce Backend](https://github.com/username/project)
+Feature-rich backend with secure authentication, payment integration, and admin controls.
+
+### [Personal Blog API](https://github.com/username/project)
+REST API for managing posts, categories, and user authentication with role-based access control.
+
+---
+
+## 📊 GitHub Stats
+![Arkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+- Email: **your.email@example.com**
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+
+---
+
+> _“A GitHub profile is your living portfolio — make it a sample of your best work.”_ — Hiring Manager, Tech Industry
