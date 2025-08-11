@@ -1,10 +1,4 @@
-<div align="center">
-
-# Mohammad Arkan  
-Backend Engineer
-
-</div>
-
+# Mohammad Arkan
 **Backend Developer | Node.js | Express | TypeScript**
 
 I’m a backend engineer passionate about building **scalable, efficient, and secure** systems.  
