@@ -1,21 +1,20 @@
 # Mohammad Arkan
-**Node.js | TypeScript | Express | PostgreSQL | MongoDB | Docker | RabbitMQ | Websockets | Micor-services | Redis**
 
-I’m a backend engineer passionate about building **scalable, efficient, and secure** systems.  
-I love solving complex problems, optimizing APIs, and designing robust architectures that can handle real-world demands.  
+I’m a backend developer skilled in TypeScript, Node.js, Express.js, SQL, PostgreSQL, MongoDB, Redis, and microservices architecture. I build reliable, high-performance APIs, design low-latency backend systems, and implement secure authentication and authorization services. I work with AI technologies to integrate intelligent features into applications. Experienced in third-party integrations, testing with Jest and Supertest, and deploying with Docker and cloud platforms, I focus on creating scalable, efficient, and maintainable backend solutions that power modern, AI-driven applications.
 
-💡 **Current Focus:** Preparing for remote backend opportunities and contributing to impactful open-source projects.
+💡 **Current Focus:** Preparing for remote backend opportunities and building impactful open-source projects.
 
 ---
 
 ## 🛠 Tech Stack
 - **Languages:** JavaScript, TypeScript, SQL, NoSQL
 - **Backend:** Node.js, Express.js
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **Messaging & Queueing:** RabbitMQ
-- **Tools & Platforms:** Docker, Git, Postman
-- **Cloud:** AWS (Basics)
-- **Other Skills:** OOP, REST API Design, WebSockets
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+- **Messaging & Queueing:** RabbitMQ, Kafka
+- **Tools & Platforms:** Docker, Git, GitHub, GitHub Action, CI/CD pipelines, Supabase
+- **Cloud:** AWS
+- **Testing:** Jest, Supertest, postman
+- **Other Skills:** OOP, REST API Design, WebSockets, Microservices
 
 ---
 
