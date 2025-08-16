@@ -20,14 +20,8 @@ I’m a backend developer skilled in TypeScript, Node.js, Express.js, SQL, Postg
 
 ## 🚀 Featured Projects
 
-### [LeetCode Clone Backend](https://github.com/username/project)
+### [LeetCode Clone Backend](https://github.com/mdarkanurl/DevOhh)
 A real-time coding platform supporting multiple programming languages with Docker-based sandboxing, live contests, and discussion forums.
-
-### [E-Commerce Backend](https://github.com/username/project)
-Feature-rich backend with secure authentication, payment integration, and admin controls.
-
-### [Personal Blog API](https://github.com/username/project)
-REST API for managing posts, categories, and user authentication with role-based access control.
 
 ---
 
