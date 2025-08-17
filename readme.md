@@ -25,12 +25,6 @@ A real-time coding platform supporting multiple programming languages with Docke
 
 ---
 
-## 📊 GitHub Stats
-![Arkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect with Me
 - Email: **your.email@example.com**
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
