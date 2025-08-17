@@ -31,5 +31,3 @@ A real-time coding platform supporting multiple programming languages with Docke
 - Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 ---
-
-> _“A GitHub profile is your living portfolio — make it a sample of your best work.”_ — Hiring Manager, Tech Industry
