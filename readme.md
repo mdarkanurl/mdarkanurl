@@ -62,6 +62,6 @@ I'm a backend engineer who enjoys designing and implementing production-ready sy
 
 ## 🤝 Want to collaborate or hire me?
 - Email: **mdarkanurl@gmail.com**
-- LinkedIn: [https://www.linkedin.com/in/thearkan/](https://www.linkedin.com/in/thearkan)
+- LinkedIn: [https://www.linkedin.com/in/thearkan](https://www.linkedin.com/in/thearkan)
 
 ---
