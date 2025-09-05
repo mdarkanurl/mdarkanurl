@@ -1,33 +1,67 @@
-# Mohammad Arkan
+# Mohammad Arkan — Backend Developer 👨‍💻
+Building reliable, scalable backend systems with Node.js, TypeScript, SQL & NoSQL — from real-time platforms to microservices and background worker systems.
 
-I’m a backend developer skilled in TypeScript, Node.js, Express.js, SQL, PostgreSQL, MongoDB, Redis, and microservices architecture. I build reliable, high-performance APIs, design low-latency backend systems, and implement secure authentication and authorization services. I work with AI technologies to integrate intelligent features into applications. Experienced in third-party integrations, testing with Jest and Supertest, and deploying with Docker and cloud platforms, I focus on creating scalable, efficient, and maintainable backend solutions that power modern, AI-driven applications.
+---
+## 🔭 About Me
+I'm a backend engineer who enjoys designing and implementing production-ready systems: REST APIs, real-time features, background workers, message-driven microservices, and robust auth flows. I care about clean architecture, strong error handling, automated tests, and observability.
 
-💡 **Current Focus:** Preparing for remote backend opportunities and building impactful open-source projects.
+**Core strengths**: Node.js, TypeScript, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, Kafka, Docker, Prisma/Sequelize, WebSockets, REST, Microservices, Jest, Supertest, CI/CD.
 
 ---
 
-## 🛠 Tech Stack
-- **Languages:** JavaScript, TypeScript, SQL, NoSQL
-- **Backend:** Node.js, Express.js
+## 🛠️ Tech Stack (high level)
+- **Languages:** JavaScript, TypeScript, SQL
+- **Runtime / Frameworks:** Node.js, Express.js
 - **Databases:** PostgreSQL, MySQL, MongoDB, Redis
-- **Messaging & Queueing:** RabbitMQ, Kafka
-- **Tools & Platforms:** Docker, Git, GitHub, GitHub Action, CI/CD pipelines, Supabase
-- **Cloud:** AWS
-- **Testing:** Jest, Supertest, postman
-- **Other Skills:** OOP, REST API Design, WebSockets, Microservices
+- **Messaging / Streaming:** RabbitMQ, Kafka, Debezium (CDC)
+- **Infrastructure:** Docker, GitHub, Git, GitHub Actions, CI/CD pipelines, Supabase
+- **Testing & Tools:** Jest, Supertest, Postman, Testcontainers
+- **Patterns:** OOP, Event-driven architecture, Microservices, WebSockets
 
 ---
 
-## 🚀 Featured Projects
+## ⭐ Featured Projects
 
-### [LeetCode Clone Backend](https://github.com/mdarkanurl/DevOhh)
-A real-time coding platform supporting multiple programming languages with Docker-based sandboxing, live contests, and discussion forums.
+### [DeshCode — LeetCode clone / online judge](https://github.com/mdarkanurl/DeshCode)
+**Tech Stack:** TypeScript, Node.js, Express.js, PostgreSQL + Prisma, Redis, RabbitMQ, Debezium, Docker (execution workers)
+**Highlights:**
+- Secure code execution: user submissions run inside isolated Docker worker containers.
+- Contest system with real-time leaderboards and rank updates.
+- Background job processing via RabbitMQ; caching and fast lookups with Redis.
+- CDC (Debezium) for syncing/streaming DB events where needed.
+- Clean OOP design, error handling, and test coverage for core flows.
 
 ---
 
-## 📫 Connect with Me
-- Email: **your.email@example.com**
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+## 📂 Other notable work
+- Worker systems and background processing examples (Dockerized).
+- Fully Dockerized microservices Backend applications examples (DeshCode).
+- Integrations for email & notifications.
+- Several small utilities and boilerplates demonstrating robust error handling and testing patterns.
+- Building Backend app with microservices architecture.
+
+---
+
+## 🧩 Architecture & Engineering Choices
+- Modular design: Separation of concerns via services, controllers, repositories.
+- Reliable messaging: RabbitMQ/Kafka for eventual consistency and decoupled processing.
+- Performance: Redis for caching leaderboards, sessions, and hot lookups.
+- Observability: Structured logging, error handling, and monitoring hooks.
+- Testing: Unit and integration tests for critical paths using Jest and Supertest with Testcontainers.
+- Separation of concerns: Microservices and worker processes where workloads need isolation (e.g., code execution).
+
+---
+
+## 📈 What I focus on in projects
+- Clean, testable code with clear boundaries.
+- Properly handled async flows and retries for message processing.
+- Secure auth and safe handling of sensitive operations.
+- Developer experience: good READMEs, .env.example, scripts, and minimal setup friction.
+
+---
+
+## 🤝 Want to collaborate or hire me?
+- Email: **mdarkanurl@gmail.com**
+- LinkedIn: [https://www.linkedin.com/in/thearkan/](https://www.linkedin.com/in/thearkan)
 
 ---
