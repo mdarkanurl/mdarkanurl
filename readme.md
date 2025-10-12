@@ -28,6 +28,7 @@ I'm a backend engineer who enjoys designing and implementing production-ready sy
 - Secure code execution: user submissions run inside isolated Docker worker containers.
 - Contest system with real-time leaderboards and rank updates.
 - Background job processing via RabbitMQ; caching and fast lookups with Redis.
+- Secure Auth and OAuth system using JWT token and Google, GitHub OAuth.
 - CDC (Debezium) for syncing/streaming DB events where needed.
 - Clean OOP design, error handling, and test coverage for core flows.
 
