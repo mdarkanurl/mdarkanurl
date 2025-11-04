@@ -1,24 +1,4 @@
 # Mohammad Arkan — Backend Developer 👨‍💻
-Building reliable, scalable backend systems with Node.js, TypeScript, SQL & NoSQL — from real-time platforms to microservices and background worker systems.
-
----
-## 🔭 About Me
-I'm a backend engineer who enjoys designing and implementing production-ready systems: REST APIs, real-time features, background workers, message-driven microservices, and robust auth flows. I care about clean architecture, strong error handling, automated tests, and observability.
-
-**Core strengths**: Node.js, TypeScript, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, Kafka, Docker, Prisma/Sequelize, WebSockets, REST, Microservices, Jest, Supertest, CI/CD.
-
----
-
-## 🛠️ Tech Stack (high level)
-- **Languages:** JavaScript, TypeScript, SQL
-- **Runtime / Frameworks:** Node.js, Express.js
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
-- **Messaging / Streaming:** RabbitMQ, Kafka, Debezium (CDC)
-- **Infrastructure:** Docker, GitHub, Git, GitHub Actions, CI/CD pipelines, Supabase
-- **Testing & Tools:** Jest, Supertest, Postman, Testcontainers
-- **Patterns:** OOP, Event-driven architecture, Microservices, WebSockets
-
----
 
 ## ⭐ Featured Projects
 
