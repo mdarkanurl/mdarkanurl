@@ -7,6 +7,7 @@ Checkout my [LinkedIn](https://www.linkedin.com/in/thearkan), [Twitter](https://
 ### Projects
 
 - **[ShobApp24](https://github.com/mdarkanurl/ShobApp24)** — A GitHub automation platform for developers.
+- **[ShobMail](https://github.com/mdarkanurl/ShobMail)** — An analyzer for your Gmail.
 - **[DeshCode](https://github.com/mdarkanurl/DeshCode)** — A LeetCode-style coding platform with sandboxed execution and real-time leaderboards.
 - **[LearnScroll](https://github.com/mdarkanurl/learnscroll)** — A backend API platform for online course management.
 - **[Find Decisions](https://github.com/mdarkanurl/findDecisions)** — A structured decision log for capturing and reviewing human decisions on a project.
