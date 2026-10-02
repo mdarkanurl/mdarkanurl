@@ -15,3 +15,4 @@ Checkout my [LinkedIn](https://www.linkedin.com/in/thearkan), [Twitter](https://
 - **[SiteNavigator](https://github.com/mdarkanurl/SiteNavigator)** — A CLI tool that drives a real Chromium browser from terminal commands.
 - **[Startups From AI](https://github.com/mdarkanurl/startups-from-ai)** — An automated system that discovers, analyzes, and posts content about startups.
 - **[GoApp](https://github.com/mdarkanurl/GoApp)** — An RSS feed aggregator API with scheduled background scraping.
+- **[CliTodo](https://github.com/mdarkanurl/CliTodo)** — A CLI app for managing todos.
